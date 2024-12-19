@@ -1,0 +1,448 @@
+---
+title: "Atom"
+author: "Ronak Paul"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+mainfont: Times New Roman
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **Atom - 1% better each day** [\*]
+
+Atom is an app for meditation and habit building through scientifically sound techniques. We write the articles from the Atom app in this document for easy reference. This habit will also help me recall earlier lessons from the app. For more details refer to the Atom app available in Google Play.
+
+## Day 1 articles
+
+### 1. It is not about you
+
+Imagine driving to your friends house without clear directions. It would be very difficult to get there and you would feel frustrated. But you would not blame yourself for this would you?
+
+**You would put it down to poor instructions!** Each time we are unable to get to our goals, we blame ourselves. We become our own worst critics. Whether it's staying fit, eating healthy or being more productive, **we think it is our inability to be disciplined** that prevents us from getting there.
+
+"If only I had more willpower, if only I was more disciplined," our minds chime in. We are our own favourite punching bag.
+
+Nope. Sorry, not true. **It's not us that is the problem. We are not to blame. It is the map we are following.** We need better directions to get to our final destination! **Building healthy habits can be easy --- if we have the right approach!**
+
+A ton of research in this last few decades has shown that there are **sure shot ways to build healthy habits and create positive behaviour change.** And it need not be difficult at all. **Here, at atom we have a science-based blueprint for just that - and it starts with stopping the criticism and being kind to yourself. :-)**
+
+### 2. Anchor habit
+
+The secret to building a new habit is in your daily routine. Use an existing habit as a reminder to meditate. Reminder habits are simple and effective. **Example: After I brush my teeth I will meditate.**
+
+### 3. Give yourself a high-five!
+
+In a journey of personal growth, it's easy to lose sight of just how far you have come. So just like we stop you for a quiz every once in a while, we should also pause to **at the progress you have made.**
+
+So far you have:
+
+1.  Taken the resolve of building meditation as a habit!
+2.  Taken the first few steps by setting up a reminder habit.
+3.  Understood that you are not to blame and a system is essential for success.
+
+**Take a moment to celebrate your success!** That is a lot of stuff you have done in a single day. Now onward to your next milestone.
+
+## ---------------------------------------------------------------------------
+
+## Day 2 articles [\*]
+
+### 1. Welcome back
+
+Welcome back Ronkacs! You have taken this decision to start a new journey. With this course we will guide you towards achieving great results with simple research-backed insights. **We have studied and compiled this course because we know one thing ... it works!** So shall we continue your journey?
+
+### 2. Tiny is transformative [!]
+
+**Tiny = transformative.** When we start out doing something new, especially if it's something that's important to us, we are super motivated.
+
+On Day 1, we are usually so driven that we do a lot more than what's ideal for us. Whether it's staying fit, eating healthy or building a mindfulness practice, we want everything to fall into place at one go. We get into the drill sergeant mode and tell ourselves to run 100 miles or completely stop eating carbs and live only on herbal green tea.
+
+This process can often be counter-productive because it has one really big flaw...**It requires superhuman motivation!** And often times due to things we cannot control our motivation drops and we fall back into our old patterns.
+
+That's where the Fogg Model comes to the rescue! BJ Fogg, head of the behaviour design lab \@Stanford, suggests that any habit or action takes place when three important factors align at the same time - Motivation, Ability (or Difficulty) & Prompt (or Reminder), or, M, A & P. Without **all three** in place, **no habit** will happen. **Guaranteed!**
+
+So how do we MAP our way to success? One simple way is to increase our ability (A) to perform the habit. This bring us to our first critical rule for success: **Atomic Rule No. 1: Make habits easy! If you want to increase you ability to perform a habit, make it really easy to do.**
+
+One of the most straightforward ways to make a habit easy to do is to make the habit really tiny. To start really small. What's that you are thinking? Everyone knows that you should start small? Why yes, that's true. It's really simple. But how you apply it is the real deal.
+
+While most have heard of how starting small is logical, it's often unclear how effective it can be! Research suggests - **start with just 1 minute.** Yup, you read that right. Just 1 minute and that's what makes this approach radially successful! **As you lower the difficulty of the habit, you increase your ability to perform it.** And lo and behold: you are an expert habit creator!
+
+## ---------------------------------------------------------------------------
+
+## Day 3 articles
+
+### 1. Welcome back
+
+Hello and welcome to Day 3. Two days in and you're crushing it! It's time we told you that what we're doing here at Atom is not just about meditation. Get ready to define and conquer other goals with our step-by-step guide. Whether it's health, productivity, relationships or all of the above, we're here to help you achieve them!
+
+### 2. The Big Idea
+
+Why is it that despite all the technological progress we've made, we still struggle to maintain a healthy lifestyle or stay peaceful?
+
+The answer lies in how we approach wellbeing. We often blame our lack of self-discipline or the lack of motivation. Whether it's eating healthy or working out regularly, we think we can simply will ourselves to get things done.
+
+But we're here to tell you that it's not you! There has simply never been compelling research about how to approach building healthy habits. **Until, ahem, now...**
+
+Okay, we got carried away! No cheesy infomercials here, just plain facts!
+
+Over the last decade a lot of great research has been done in behaviour change by BJ Fogg, head of the behaviour design lab at Stanford University. His method, known as the "Fogg Behaviour Model" among us behaviour design geeks, identifies the basics of building a new habit.
+
+And you would be surprised to know how simple it is to stick to a habit! We're absolutely serious, for once. **According to the Fogg model, any behaviour change happens when three things align at the same moment: Motivation, Ability, Prompt!** Now let's get to know each of these.
+
+The three necessary ingredients for a successful habit are:
+
+1.  **Motivation:** You need to be motivated to perform the habit
+2.  **Ability (Difficulty):** You need to have the ability to perform the habit, i.e., the habit has to be easy enough to perform
+3.  **Prompt (Reminder):** You need to have something that needs you to perform the habit
+
+If any of these three elements is missing, the habit won't stick. Simple.
+
+## ---------------------------------------------------------------------------
+
+## Day 4 articles
+
+### 1. Thinking about thinking
+
+Hello and welcome to Day 4! We begin today by exploring a simple, yet significant idea. **How you feel about performing a habit is as important as the actual difficulty of performing it.** If you feel like it's boring, meaningless, and hard, your chances of performing it are low. So remember to consciously construct a positive image in your mind before you meditate. :)
+
+### 2. Reminder habits
+
+Sometimes, despite being being motivated and having the ability to perform habits, we don't do them. We know that these habits are good for us, but we get caught up in our busy lives and forget about them.
+
+We simply forget to do what we intended to do: Eat a healthy meal, go to the gym, floss our teeth, take a bath...oh okay, probably not that. The point that we are making is: Sometimes, we simply forget.
+
+So how do we ensure that we remember? Reward our self with a double chocolate cookie every time you remember? No, that would be a deal breaker. So let's find out by...you guessed it...wearing our new **lens of behaviour change!**
+
+We use something called: **#AtomicSuperPower: Reminder Habits.**
+
+These are actions that you perform daily such as bathing or switching on your computer. You can use them as a reminder to "attach" a new habit that you want to create.
+
+**What are reminder habits?**
+
+Here's an example. If you want to remember to meditate, you can use something you never forget to do at least once a day as a reminder. For example: brushing your teeth can "prompt" you to meditate.
+
+You can use these habits as an internal trigger, an action that then tells the body and mind, "Hey, after this you are supposed to meditate!"
+
+Sounds a little whack-o but the science behind this is strong.
+
+**Find something in your daily life that you do that you can use a reminder habit to help you build a solid foundation of success.**
+
+## ---------------------------------------------------------------------------
+
+## Day 5 articles [\*]
+
+### 1. Cheers
+
+Cheers on getting to day 5!
+
+You're on your way to unlocking and understanding the principles of change, one tiny step at a time!
+
+We wish you all the optimism and strength for this incredible journey.
+
+### 2. Motivation is Fleeting [!]
+
+Do you recall a moment when you worked exceptionally hard? Like the time you studied hard for an exam or worked on an important presentation?
+
+Do you remember that feeling of motivation that you get when you know you have to perform? Your motivation is really high and you simply have to get the job done.
+
+However, that's definitely not always the case.
+
+Many a time, you would be feeling the exact opposite of being motivated. "Ugh, not the gym again", "It's just another Messy Monday", are all Grammy-award winning inner monologues.
+
+We strive to tell ourselves: "Yes, we can!" And this raises our motivation, but it's usually temporary.
+
+Then, on a not-so-good day, when we find ourselves lazily snuggling in front of the TV, we forget about the habit and our motivation slips, leading us to stop action altogether.
+
+To understand and avoid this trap of motivation, **let us wear our new lens of behaviour change.**
+
+Let's start by figuring out how motivation works! It's alright to not be at a 100% or even a 70% most of the time.
+
+It's natural for us to not remain constantly motivated and knowing this can be a powerful insight.
+
+So here's **#Atomic Rule No. 2: Motivation is unreliable. So...Don't rely on it!**
+
+Guess who came up with this? Fogg again! For someone with that surname, he sure seems to provide a lot of clarity (punny isn't it?).
+
+His research states that **instead of focusing only on motivation, we should focus on making the task easier to do.** This removes motivation out of the equation and our dependency on it to stay consistent.
+
+One simple way to do this is to reduce the effort needed to act upon a habit. This will create a sense that the habit is easy to maintain. And this will allow you to meditate daily or however many times you like.
+
+You should deliberately try and stop yourself from doing more initially. There's a natural urge to increase the amount of effort you put into a task, but be mindful (how ironic) of it. Resist the feeling of doing more. If your brain starts to think of the task as one that requires high effort, your chances of sticking to a habit drop dramatically.
+
+## ---------------------------------------------------------------------------
+
+## Day 6 articles
+
+### 1. It only takes one decision
+
+Welcome back! The seed of every habit begins as a tiny decision. But every time you take that decision, a habit takes root and grows branches. Before you know it, the habit is a part of your daily routine and influences everything else in your life. The task of breaking a bad habit is like uprooting a massive banyan tree. And the task of building a good habit is like waiting for a delicate flower to bloom. So are you ready to grow?
+
+### 2. Your New Lens of Behaviour Change
+
+Often, our busy lives do not permit us to reflect on and study why we do certain things. It's only natural since there are so many things that we can give our full, undivided attention to.
+
+Two things that often disappear into life's everyday hustle are our habits and behaviours.
+
+Let us look at how these aspects can impact our self-improvement, but are often left unattended.
+
+The key to physical and mental wellbeing is in approaching behaviours and habits in a new way. We call this your **lens of behaviour change.**
+
+With this super-ability, you will now easily understand why and how things affect your daily habits. And knowing is the first steps towards meaningful change. We'll start with some facts that are seldom known. So don't worry if you get some of these wrong. We're here to guide as you go along.
+
+## ---------------------------------------------------------------------------
+
+## Day 7 articles [\*]
+
+### 1. You did it!
+
+Good morning and welcome to day 7.
+
+Congratulations - the first week is the toughest and you're on the last day of Week 1! Great job!
+
+We know you might still have some doubts; that's cool, we get it. But now's not the time to give up. Now, it's time to take your doubts, roll 'em into a nice ball and toss 'em out of the window. Ready to toss?
+
+### 2. Celebrate your success [!]
+
+You might have noticed that once your meditation ends, we shower you with goodies of all kinds. You might think that the reward system is a bit much at times. But this is all very carefully studied, and very, very deliberate.
+
+Why do we give you streaks and experience points? Well, for one, you've got a forest to grow. That's one reason to get rewards.
+
+The other requires you to wear your new lens of behaviour change! We like to think of this lens like Superman's X-Ray Vision, helping us cut through the bullshit and see things clearly.
+
+It is important to understand that right after you try something new or develop a new habit, a switch flips in your mind.
+
+Your brain asks you, "Hey! What you did just now: Was it A. Good? or B. Bad?"
+
+Crazy right? That the brain can talk? But it does talk every time you perform any activity and especially when you begin a new task.
+
+So how can you make sure a new habit that benefits you can be sustained? You guessed it! By using the reward system.
+
+**Celebrating every step towards a good habit immediately after the step, however small it may be, is a great way to maintain the habit.** Why? Rewards help activate the pleasure center of the brain, giving it a signal that what it did was right. This creates a dopamine rush and wires a new habit into it.
+
+The brain listens to the signals from the rest of your body to understand whether it's going in the right direction or wrong. And this can be a powerful tool to help build any healthy habit.
+
+Which brings us to...another **Atomic Rule No. 3: Celebrate your success!**
+
+Fogg emphasizes this very specifically. He states that **there's nothing more powerful than emotions to create change in behaviour.** Logical, right?
+
+Think of what happens when you eat chocolate or a nice slice of pizza. Your brain goes "Ohhhh, yeah, that's the stuff," in a typical James Brownian way. Or how you feel when your cat looks all cute and let's you squish her as many times as you want. No Just us? Cool.
+
+Stay along with us, dog lovers.
+
+We love examples, but what we're trying to tell you is that **rewards make new habit stick.** Rewarding a good behaviour creates a feel good sensation that makes us want to repeat the action. It also creates a new, stronger pathway in the brain that helps us maintain a habit.
+
+Three words, just three words encapsulate the truth about building habits. **"Emotions create habits."** That sounds like a line from a Taylor Swift hit, but trust us.
+
+Not repetition, not frequency, not fairy dust but emotions. A positive feeling, be it a round of cheers or even a smile, right after you perform a new habit is what will make you stick with it.
+
+Now you might be thinking, "How do I force myself to celebrate? How do I get myself to feel joyful when I'm not really feeling it?"
+
+Well, you don't have to. What you should believe is that it's not a small accomplishment to act upon a new habit, however tiny. It's a big deal. Every atom counts! No matter how minor or incremental, you'll be able to feel a sense of genuine accomplishment when you start or finish a new activity.
+
+**Celebrating a win - no matter how tiny - will quickly need to more wins.** Sometimes, it helps to think about how the small changes in your life are leading to your true vision of a fulfilling and content life. So the next time you're done with a new habit, take a moment to feel that sense of accomplishment, and the joy that follows naturally :)
+
+## ---------------------------------------------------------------------------
+
+## Day 8 articles
+
+### 1. A brand new week
+
+A great start to your next week I see! Let's jump straight in.
+
+A lot of our mental struggles arise from how we think about a past experience rather than the experience in itself.
+
+Understanding a observing our thoughts, as opposed to being at their mercy, is therefore a skill worth developing.
+
+### 2. Reminder habits: find your anchor
+
+**A reminder habit or anchor habit acts as a natural reminder to get you to perform the new habit (meditation) directly after.**
+
+Reminder habits or Anchor habits are the backbones of habit-building, they are the frame on which your life stands, the pedestal to your greatness, the Timon to your Pumbaa.
+
+Reminder habits are the Lebron James of habit-building. You cannot get more assists from something other than a reminder habit, to make you win at life.
+
+**Simply put, without reminder habits, it's not possible to build a habit.**
+
+So how do you find the right reminder habit?
+
+Find the right time. Find a good spot in your daily life, where you know you'll have a clear hand and pleasant mood. A time when you've not got too much on the mind.
+
+**If possible, we highly recommend performing the new behaviour first thing in the morning.** There's nothing like being able to wake up and have a great start to the day.
+
+You'll find countless examples from people like Ellen DeGeneres to Barack Obama who follow incredible morning routines and are quite vocal about their power to create lasting change.
+
+**Find the right activity to remind you**
+
+You should ideally find a reminder habit that you perform at the same frequency as the new habit.
+
+You want to meditate once a day? You happen to wake up once a day as well. Baam! Synergy and you've hit gold.
+
+There are several routine tasks that work as great anchor habits. These could be:
+
+1.  making your morning coffee
+2.  stepping out of the shower
+3.  making your bed
+4.  stepping out of the house for the first time, or
+5.  switching on your laptop, etc.
+
+Next, you need to zero in on a place for your new habit.
+
+Finding a location which is close to the place where you perform your anchor habit is the only way to go. If you decide you're going to run outside, then find a habit in your home that can nudge you to quickly wear your running shoes.
+
+Reminder habits have to work like post-it notes to remind you of your new habit. However, **they only work if they are chosen well.**
+
+For example, the time when you finish office may not be the best time of the day for you to set out for a run. Not even on a good workday! So pick the right anchor habit.
+
+Look for a theme.
+
+Although less vital than the others, you can benefit from the anchor habit or trigger being thematically similar to your desired habit.
+
+For example, yoga and meditation can most definitely be done one after the other, since they are both helpful tools for your wellbeing.
+
+## ---------------------------------------------------------------------------
+
+## Day 9 articles [\*]
+
+### 1. Soar!
+
+Way to go! You made it to Day 9.
+
+You're soaring because you're in the second week of meditation. And you know that what we're doing here at Atom is not just about meditation. You are going to be able to make new, productive habits and put to rest habits that don't work for you. So let's get on then with being more mindful about our habits!
+
+### 2. Emotions create habits [!]
+
+Sometimes, as we meditate, we may be quick to judge each meditation session as "good" or "bad".
+
+Similarly, it's only natural to question whether you're improving with time. Try to resist these urges to analyse progress, especially in terms of whether you're performing better or worse.
+
+We have a tendency to think that we will experience lightning bolts of insights or dramatic change after we meditate. And when we don't, we feel let down. As we know, **#Atomic Rule No. 4: Emotions Create Habits!** So if you feel bad about it, you are more likely to stop and never see the fruits of your labour.
+
+We'll let you in on a hack: Focus on how you feel right at the end of a meditation. You'll usually feel a quiet sense of awareness and calm.
+
+These are signs that there's more to come. Being patient will help you move towards being more mindful and aware in the present moment.
+
+## ---------------------------------------------------------------------------
+
+## Day 10 articles [\*]
+
+### 1. Start with gratitude
+
+Hello and welcome to Day 10.
+
+You know all about gratitude, so let's begin today by saying a big "Thank You!"
+
+Feel how good it is to be grateful for the small joys and for making it to the second week! Today, we'll learn all about finding the right habits and tackling only challenges that come our way when trying to stick to them!
+
+### 2. The only thing that counts [!]
+
+Remember New Year resolutions?
+
+Every year we make ill-fated plans for a better life. Sleep more, exercise more, eat healthy, smoke less, spend less...but more often than not, we get so caught up in making the ideal plan for success that we forget to actually act on them!
+
+Think of it as a writer imagining plots for their novels, but never actually writing them! Tragic, no magic.
+
+The path to successful behaviour change consists of 3 milestones.
+
+1.  Intention - Know what you want
+2.  Planning - Make a plan
+3.  Action - Act on that plan
+
+But very often we get stuck on that planning phase. Which is great. And important too. Because it allows us to organize and strategize. However, it does not get us to where we want to go! Without actually acting on our plans, we do not see any tangible results.
+
+We can buy all those fancy gym clothes and sign up for an annual membership of the trendiest gym, all with the intent of getting a fitter body. But getting on that treadmill is the real action that will lead to change.
+
+It's easy to be in motion and convince yourself that you're still making progress. You think, "I've got conversations going with four potential clients right now. This is good, We're moving in the right direction." Or, "I brainstormed some ideas for that book I want to write. This is coming together."
+
+Hang on, we'll get to the problem with this plan in a second.
+
+When preparation becomes a form of procrastination, you need to change something. You don't want to merely be planning. You want to be acting on the plan. **If you want to master a habit, the key is to start with repetition, not perfection.** You don't need to map out every feature of a new habit. You just need to practice it.
+
+## ---------------------------------------------------------------------------
+
+## Day 11 articles
+
+### 1. Just dance do-do-doo-doot
+
+Yaaaay! We're cheering for you!
+
+We hope you're smiling from ear to ear because you made it his far! You're mid-way through the second week and this calls for a proper self-congratulatory dance.
+
+Today, we're going to look at how superstars gain from tiny habits!
+
+### 2. Making reminder habits work
+
+We know Reminder Habits or Anchor Habits are critical for success.
+
+How do you dramatically increase the effectiveness of an anchor habit?
+
+Let's get straight to it.
+
+While "using" a reminder habit, **try to define the exact moment the anchor habit ends.** This is particularly important for anchors which are "fuzzy" (or "Foggy" if you please!)
+
+For example, you might finish breakfast and clean up after by placing the dishes for a wash. But think of it as this series of actions: "After I eat breakfast and place my dishes in the dishwasher, I will meditate."
+
+**Visualise and detail out the exact series of mini-actions that you take towards the end of your reminder habit.**
+
+This way, each time you perform your reminder habit, the mind and body naturally flow through the set of actions to automatically get you to start meditating. No conscious thought is needed.
+
+And over time, this becomes a consistent trigger for you to meditate!
+
+## ---------------------------------------------------------------------------
+
+## Day 12 articles
+
+### 1. Open for change
+
+It's great to see you again. You've almost made it to the end of the second week.
+
+Today, we're going to look at some other very significant aspects of habit building. We're going to understand how to add joy to our habits and how to make our distractions work for us!
+
+So let's get a super start on this!
+
+### 2. The ability chain
+
+As we already know, **#Atomic Rule No. 2: Motivation is unreliable. So...don't rely on it!**
+
+We also know from **#Atomic Rule No. 1 that if you want to do something that requires no motivation, make it really easy to do.**
+
+Let us look at another simple exercise in introspection called the Ability Chain exercise.
+
+Imagine that you need to make a cup of soothing lemon tea: What do you need to get going? Let's make a list.
+
+An electric kettle or perhaps a stove, a pot to boil water, some tea, a lemon or two, and perhaps a bit of sugar or honey to top it off. And of course, water.
+
+Patience! We're not done yet! If we don't have even one of these, it is really hard to make lemon tea.
+
+Similarly, **for us to make a behaviour easy and simple, we need to ensure we have all the ingredients in one place.**
+
+You can visualise this as a chain of sorts, where each element is essential. So if something's missing, the chain breaks, and you end up not performing the habit.
+
+Your ability chain is only as strong as its weakest link. Those one or two ingredients that most often go missing can break the chain.
+
+By asking ourselves what we think could be missing, we gain perspective on why we don't succeed. This also helps us narrow down on the factors that are likely to cause us to fail.
+
+So we'll now perform a simple, introspective exercise known as Ability Chain Examination.
+
+Let's break this down further. Let's identify the weakest links in our ability chain:
+
+1.  Is the habit easy i.e., Tiny? No? Make it smaller!
+2.  Is it easy to schedule into your routine? No? Add a reminder habit!
+3.  Do you perceive the behaviour to be complex or difficult? Yes? Think about how to make it more pleasurable!
+4.  Are there any obstacles that come in the way? Yes? Design your environment for success!
+
+## ---------------------------------------------------------------------------
+
+## Day 106 articles
+
+### Attention is a bubble
+
+Our brains act like powerful supercomputers - we process about 11 million "bits" each second! Interestingly out of these, we only consciously process about 40! These 40 bits are what we call our "working memory" capacity. **Working memory is where we "hold" information that we consciously pay attention to at any given moment.**
+
+Think of our attention as an empty bubble waiting to be filled by different things. This could be the ping of our phones, memories from yesterday, the sound of traffic, and so on. It's easy for anything to float into these bubbles and fill it to the brim.
+
+**A complex task** like learning requires us to pay full attention. This means that when we are learning something new, our attention bubble is full too - all the space in our working memory have filled up. A habit, on the other hand, doesn't take up all that much space. Filling the bubble just a little bit. In fact, the more a behaviour has been repeated, the less space it takes up in the bubble.
+
+So on your journey to building a habit, you'll find that the effort you need to perform it, slowly decreases with time. A.k.a, the space it takes up in the bubble of you attention slowly shrinks. Becoming almost second nature.
